@@ -1,0 +1,13 @@
+package com.redasp.pma;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class InfoProjectApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(InfoProjectApplication.class, args);
+	}
+
+}
